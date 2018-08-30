@@ -1,0 +1,12 @@
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\bin\Debug\netcoreapp2.0\BlobStorageUploadExample.deps.json
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\bin\Debug\netcoreapp2.0\BlobStorageUploadExample.runtimeconfig.json
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\bin\Debug\netcoreapp2.0\BlobStorageUploadExample.runtimeconfig.dev.json
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\bin\Debug\netcoreapp2.0\BlobStorageUploadExample.dll
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\bin\Debug\netcoreapp2.0\BlobStorageUploadExample.pdb
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\obj\Debug\netcoreapp2.0\BlobStorageUploadExample.csprojAssemblyReference.cache
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\obj\Debug\netcoreapp2.0\BlobStorageUploadExample.csproj.CoreCompileInputs.cache
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\obj\Debug\netcoreapp2.0\BlobStorageUploadExample.AssemblyInfoInputs.cache
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\obj\Debug\netcoreapp2.0\BlobStorageUploadExample.AssemblyInfo.cs
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\obj\Debug\netcoreapp2.0\BlobStorageUploadExample.dll
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\obj\Debug\netcoreapp2.0\BlobStorageUploadExample.pdb
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

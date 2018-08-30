@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A968AB0C-2E62-43C0-9BC3-CB9B83705F74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlobStorageUploadExample/Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="BlobStorageUploadExample/Extensions/AzureAdAuthenticationBuilderExtensions.cs" Line="35" Column="39" />
+      <File FileName="BlobStorageUploadExample/Extensions/AzureAdOptions.cs" Line="1" Column="1" />
+      <File FileName="BlobStorageUploadExample/Startup.cs" Line="1" Column="1" />
+      <File FileName="BlobStorageUploadExample/Program.cs" Line="1" Column="1" />
+      <File FileName="BlobStorageUploadExample/Pages/Index.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlobStorageUploadExample" expanded="True">
+            <Node name="BlobStorageUploadExample" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="BlobStorageUploadExample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlobStorageUploadExample PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

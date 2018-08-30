@@ -1,0 +1,16 @@
+C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=BlobStorageUploadExample
+--content-root=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\About.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\Account\AccessDenied.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\Account\SignedOut.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\Account\_ViewImports.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\Contact.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\Error.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\Index.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\_Layout.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\_LoginPartial.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\_ViewImports.cshtml
+--file=C:\Users\morse\source\repos\BlobStorageUploadExample\BlobStorageUploadExample\Pages\_ViewStart.cshtml
